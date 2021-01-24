@@ -10,3 +10,7 @@ hr {
     background-color: #ffdada;
     width: 5%;
 }
+
+img:hover {
+    background-color: gold;
+}
