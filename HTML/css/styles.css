@@ -11,6 +11,14 @@ hr {
     width: 5%;
 }
 
-img:hover {
+h1:hover {
     background-color: gold;
+}
+
+.cat {
+    background-color: gold;
+}
+
+.cat:hover {
+    background-color: green;
 }
