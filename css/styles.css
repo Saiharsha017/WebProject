@@ -1,5 +1,5 @@
 body {
-    background-color: #ffdada;
+    background-color: #bce6eb;
 }
 
 hr {
@@ -21,4 +21,10 @@ h1:hover {
 
 .cat:hover {
     background-color: green;
+}
+
+.headings {
+    margin: 15px;
+    padding: 10px;
+    background-color: #fdcfdf;
 }
